@@ -1,0 +1,6 @@
+{
+  "name": "HostelHub - Institutional Hostel Management System",
+  "description": "Comprehensive MERN full-stack hostel management platform for institutional admissions, room allocation, fee tracking, maintenance requests, visitor logs, and occupancy intelligence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
